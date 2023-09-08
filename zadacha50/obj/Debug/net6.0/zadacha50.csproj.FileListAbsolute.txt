@@ -1,0 +1,15 @@
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\bin\Debug\net6.0\zadacha50.exe
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\bin\Debug\net6.0\zadacha50.deps.json
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\bin\Debug\net6.0\zadacha50.runtimeconfig.json
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\bin\Debug\net6.0\zadacha50.dll
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\bin\Debug\net6.0\zadacha50.pdb
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.csproj.AssemblyReference.cache
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.AssemblyInfoInputs.cache
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.AssemblyInfo.cs
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.csproj.CoreCompileInputs.cache
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.dll
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\refint\zadacha50.dll
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.pdb
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\zadacha50.genruntimeconfig.cache
+C:\Users\L1GHT\Desktop\Учёба\UNIVERSITY\MAIN LOBBY\HOMEWORK\GEEKBRAINS\Lesson7\zadacha50\obj\Debug\net6.0\ref\zadacha50.dll
